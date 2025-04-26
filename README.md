@@ -1,1 +1,1 @@
-Hi, this is a nice day!
+Hi, this is a place for learning.
